@@ -1,0 +1,50 @@
+{
+  "_from": "voximplant-websdk@^4.4.0-1940",
+  "_id": "voximplant-websdk@4.4.1928",
+  "_inBundle": false,
+  "_integrity": "sha512-QFydtr2l+8r6obrxk8vk3sUIpA/CjAkxhZlPGplTcETs8MPzssvTfjOEpbTD44CFQTSnJa7oRFrNyd2PvosgCA==",
+  "_location": "/voximplant-websdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "voximplant-websdk@^4.4.0-1940",
+    "name": "voximplant-websdk",
+    "escapedName": "voximplant-websdk",
+    "rawSpec": "^4.4.0-1940",
+    "saveSpec": null,
+    "fetchSpec": "^4.4.0-1940"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://npm.onclass.tech/voximplant-websdk/-/voximplant-websdk-4.4.1928.tgz",
+  "_shasum": "3062e0d74d7a9ecb4ad55fde12f5439c69a2d15e",
+  "_spec": "voximplant-websdk@^4.4.0-1940",
+  "_where": "/home/xamelion/Projects/onclick/lingo2-conference",
+  "author": {
+    "name": "Zingaya Inc.",
+    "email": "info@voximplant.com",
+    "url": "http://voximplant.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "VoxImplant Web SDK for embedding voice and video communication into web applications.",
+  "devDependencies": {},
+  "homepage": "https://voximplant.com",
+  "keywords": [
+    "npm",
+    "module",
+    "voximplant",
+    "websdk"
+  ],
+  "license": "Commercial",
+  "main": "voximplant.min.js",
+  "name": "voximplant-websdk",
+  "typescript": {
+    "definition": "voximplant.d.ts"
+  },
+  "typings": "voximplant.d.ts",
+  "version": "4.4.1928"
+}
